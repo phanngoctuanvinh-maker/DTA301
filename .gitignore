@@ -22,7 +22,6 @@ env/
 ENV/
 .venv/
 .env
-tutorial/
 
 # Data files (large files - add specific ones if needed)
 data/raw/*.csv
