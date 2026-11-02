@@ -1,0 +1,19 @@
+source_file,Label,Condition,Tong_Mau,Sai_LR,Ty_le_sai_LR,Sai_RF,Ty_le_sai_RF
+FAULT_M1_10.mat,1,Fault 10% (Lỗi nặng),64,3,4.69,20,31.25
+FAULT_M1_5.mat,1,Fault 5% (Lỗi nhẹ),81,3,3.7,16,19.75
+FAULT_M2_10.mat,1,Fault 10% (Lỗi nặng),74,5,6.76,2,2.7
+FAULT_M2_5.mat,1,Fault 5% (Lỗi nhẹ),45,4,8.89,13,28.89
+FAULT_M3_10.mat,1,Fault 10% (Lỗi nặng),52,0,0.0,0,0.0
+FAULT_M3_5.mat,1,Fault 5% (Lỗi nhẹ),83,3,3.61,16,19.28
+FAULT_M4_10.mat,1,Fault 10% (Lỗi nặng),48,6,12.5,0,0.0
+FAULT_M4_5.mat,1,Fault 5% (Lỗi nhẹ),37,0,0.0,4,10.81
+FAULT_M5_10.mat,1,Fault 10% (Lỗi nặng),59,1,1.69,1,1.69
+FAULT_M5_5.mat,1,Fault 5% (Lỗi nhẹ),38,1,2.63,0,0.0
+FAULT_M6_10.mat,1,Fault 10% (Lỗi nặng),65,4,6.15,0,0.0
+FAULT_M6_5.mat,1,Fault 5% (Lỗi nhẹ),43,1,2.33,5,11.63
+NO_FAULT1.mat,0,Normal (Không lỗi),33,32,96.97,20,60.61
+NO_FAULT2.mat,0,Normal (Không lỗi),72,66,91.67,55,76.39
+NO_FAULT3.mat,0,Normal (Không lỗi),53,48,90.57,37,69.81
+NO_FAULT4.mat,0,Normal (Không lỗi),46,40,86.96,18,39.13
+NO_FAULT5.mat,0,Normal (Không lỗi),44,40,90.91,31,70.45
+NO_FAULT6.mat,0,Normal (Không lỗi),51,47,92.16,36,70.59

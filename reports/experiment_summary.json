@@ -1,0 +1,46 @@
+{
+    "lr_mean_precision": 0.7074174024261556,
+    "lr_mean_recall": 0.955747526608385,
+    "lr_mean_f1": 0.8112663082112848,
+    "lr_mean_acc": 0.6924774844241565,
+    "rf_mean_precision": 0.7566104377598769,
+    "rf_mean_recall": 0.8789414093601853,
+    "rf_mean_f1": 0.81018272709999,
+    "rf_mean_acc": 0.7208872355925283,
+    "cm_lr": [
+        [
+            26,
+            273
+        ],
+        [
+            31,
+            658
+        ]
+    ],
+    "cm_rf": [
+        [
+            102,
+            197
+        ],
+        [
+            77,
+            612
+        ]
+    ],
+    "lr_fit_time_mean": 0.021821260452270508,
+    "rf_fit_time_mean": 0.18354401588439942,
+    "lr_pred_time_mean": 0.0006148338317871094,
+    "rf_pred_time_mean": 0.02855377197265625,
+    "best_lr_params": {
+        "clf__C": 0.1,
+        "clf__solver": "lbfgs"
+    },
+    "best_rf_params": {
+        "max_depth": 16,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5,
+        "n_estimators": 150
+    },
+    "best_lr_score": 0.818051054662589,
+    "best_rf_score": 0.8184753542236158
+}
